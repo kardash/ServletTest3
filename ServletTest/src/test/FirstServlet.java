@@ -17,7 +17,7 @@ public class FirstServlet extends HttpServlet {
             throws ServletException, IOException {
  
         PrintWriter out = resp.getWriter();
-        out.print("<h1>Hello THIS IS Servlet!!!!</h1>")
+        out.print("<h1>Hello THIS IS Servlet!!!!</h1>");
  
     }
 
