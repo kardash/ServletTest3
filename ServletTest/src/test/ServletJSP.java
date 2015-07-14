@@ -23,4 +23,6 @@ public class ServletJSP extends HttpServlet {
 		doGet(request, response);
 	}
 
+
 }
+
